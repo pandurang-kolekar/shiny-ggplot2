@@ -23,8 +23,7 @@ The app is developed using following R packages
 
 ## Sample input files
   1. iris.csv
-  2. testMtcars.csv
-
+  
 ## Future Development
 1. Development of customized apps for different types of data analysis and visualization
   * Visualizations: 
